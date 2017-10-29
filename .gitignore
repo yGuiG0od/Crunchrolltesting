@@ -1,0 +1,43 @@
+bin
+target
+bin/
+target/
+
+# osx noise
+*.DS_Store
+*.ipa
+*.swp
+*~.nib
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files and dirs
+build/
+gen/
+.gradle/
+.gralde/*
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# Android Studio
+.idea/
+out/
+*.idea/
+*.idea/workspace.xml
+*.properties
+*.iml
+
+# Serenity
+serenity.properties
+vrvconfig.xcconfig
+src/test/java/tests/
+*.settings/
+*.classpath
+*.project
