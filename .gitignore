@@ -35,7 +35,6 @@ out/
 *.iml
 
 # Serenity
-serenity.properties
 vrvconfig.xcconfig
 src/test/java/tests/
 *.settings/
